@@ -152,7 +152,7 @@ Based on the knowledge above, I would like you to build me a few Mono-Red aggro 
 
 Your challenge is to build me a very competitive deck that optimizes for winrate. I have provided you with 3 high performing Mono-Red Aggro decks off untapped. But I do not want you to copy them directly. Instead, I want you to fuel your creativity and take lessons from each one, as well as the other cards I have provided, to build the ultimate Mono-Red Aggro deck that can rank up and have the highest possible winrate.
 
-#Deepseek's Reasoning
+# Deepseek's Reasoning
 
 We are building a Mono-Red Aggro deck for Best-of-One Standard. We have a collection of creatures, instants/sorceries, auras, and lands provided. We also have three high-performing decks to draw inspiration from.
 Goal: Optimize for winrate in the current meta.
@@ -445,7 +445,7 @@ We have reach with burn and resilient threats (Screaming Nemesis punishes remova
 This deck should be fast and have game against the meta.
 We can adjust the numbers based on playtesting, but this is a solid starting point.
 
-#Deepseek's Answer
+# Deepseek's Answer
 
 ### Ultimate Mono-Red Aggro Deck for BO1 Standard  
 Based on your collection, the top-performing decks from Untapped, and the current meta, I've designed a highly optimized Mono-Red Aggro list. It focuses on explosive speed, resilience against common meta decks, and maximizing damage output by Turn 4-5. Key innovations:  
