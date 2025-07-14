@@ -53,12 +53,6 @@ AURAS AND ENCHANTMENTS
 
 1. Demonic Ruckus{1}{R}, Enchantment — Aura: Enchant creature. Enchanted creature gets +1/+1 and has menace and trample. When this Aura is put into a graveyard from the battlefield, draw a card. Plot {R}.
 
-CONVENTIONS:
-Each card starts with its card name, then its mana cost, then its type, then its power/toughness (if it is a creature), then its card description. For example, Screaming Nemasis looks as follows:
-Screaming Nemesis{2}{R}, Creature — Spirit, 3/3: Haste. Whenever this creature is dealt damage, it deals that much damage to any other target. If a player is dealt damage this way, they can’t gain life for the rest of the game.
-So, it is 2 colorless and a red mana to cast. It is of type Creature — Spirit and it has power and toughness 3/3. The stuff after the colon then is the card decription.
-Of course, if it is not a creature then it has no power/toughness. If it is a land then it has no mana cost.
-
 LANDS:
 
 1. Mountain, Basic Land — Mountain: {T}: add {R}.
@@ -66,6 +60,13 @@ LANDS:
 2. Soulstone Sanctuary, Land: {T}: Add {C}. {4}: This land becomes a 3/3 creature with vigilance and all creature types. It’s still a land.
 
 3. Rockface Village, Land: {T}: Add {1}. {T}: Add {R}. Spend this mana only to cast a creature spell. {R}, {T}: Target Lizard, Mouse, Otter, or Raccoon you control gets +1/+0 and gains haste until end of turn. Activate only as a sorcery.
+
+
+CONVENTIONS:
+Each card starts with its card name, then its mana cost, then its type, then its power/toughness (if it is a creature), then its card description. For example, Screaming Nemasis looks as follows:
+Screaming Nemesis{2}{R}, Creature — Spirit, 3/3: Haste. Whenever this creature is dealt damage, it deals that much damage to any other target. If a player is dealt damage this way, they can’t gain life for the rest of the game.
+So, it is 2 colorless and a red mana to cast. It is of type Creature — Spirit and it has power and toughness 3/3. The stuff after the colon then is the card decription.
+Of course, if it is not a creature then it has no power/toughness. If it is a land then it has no mana cost.
 
 
 MECHANICS
